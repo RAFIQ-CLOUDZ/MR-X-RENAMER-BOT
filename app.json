@@ -1,9 +1,9 @@
 {
-    "name": "LazyDeveloper Renamer Bot",
+    "name": "MR-X-Renamer Bot",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://telegra.ph/file/e01b2016af8ab7b7616dc.png",
+    "logo": "https://telegra.ph/file/c2d6f15ac99c44622ef1a.jpg",
     "keywords": ["LazyDeveloper Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT",
+    "repository": "https://github.com/RAFIQ-CLOUDZ/MR-X-RENAMER-BOT",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
