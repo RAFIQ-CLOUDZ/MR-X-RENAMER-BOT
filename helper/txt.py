@@ -73,7 +73,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/MROTTTamilOffl>Watch Tutorial</a>
 
-• 😈 <a href=https://t.me/MROTTTamilOffl>Developer</a>
+• 😈 <a href=https://t.me/MR_X_MIRROR>Developer</a>
 • 😈 <a href=https://t.me/MROTTTamilOffl>Tg Channel</a>
 • 😈 <a href=https://t.me/MROTTTamilOffl>Direct-Msg-TG</a>
 • 😈 <a href=https://t.me/MROTTTamilOffl>Join Movies</a>
